@@ -76,10 +76,10 @@ function Juego() {
         <img src="../Imagenes/piedra feliz.jpg" alt="Piedra" />
         </button>
         <button className="boton" onClick={() => usuario("papel")}>
-            <img src="../Imagenes/papel feliz.jpg" alt="Papel" />
+            <img src="../Imagenes/papel feliz.png" alt="Papel" />
         </button>
         <button className="boton" onClick={() => usuario("tijera")}>
-          <img src="../Imagenes/tijera.jpg" alt="Tijera" />
+          <img src="../Imagenes/tijera feliz.jpg" alt="Tijera" />
         </button>
       </div>
 
