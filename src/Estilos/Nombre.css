@@ -1,0 +1,13 @@
+.nombreJugador{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    min-height: 20px; 
+    border: 2px solid #000000;
+    padding: 12px; /* Esta propiedad establece el espacio de relleno alrededor del contenido dentro de un elemento. En este caso, se está aplicando un espacio de relleno de 12 píxeles en todas las direcciones (arriba, abajo, izquierda y derecha) alrededor del contenido del elemento. El contenido se separará del borde del elemento por este espacio de relleno.*/
+    background-color: #f7f7f7;
+    border-radius: 10px; /* Esta propiedad establece el radio de las esquinas del borde de un elemento, lo que crea un efecto de esquinas redondeadas*/
+    color: #0f1894;
+    font-size: 25px;
+    margin: 10px; /* Le agrego margen*/
+}

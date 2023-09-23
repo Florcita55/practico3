@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+.titulo{
+  font-size: 50px;
+  text-align: center; /* Alineacion del texto*/
+  font-family: sans-serif;
+  line-height: 0.5; 
+  letter-spacing: 0.5px; /* Este estilo establece el espaciado entre caracteres (letras) dentro del contenido del elemento*/
+  word-spacing: 2.7px; /*: Este estilo establece el espaciado entre palabras dentro del contenido del elemento. */
+  color: #6ca0ff;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,7 +23,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #32405c;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
